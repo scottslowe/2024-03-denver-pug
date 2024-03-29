@@ -1,0 +1,14 @@
+{
+    "name": "pug-demo",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^3.0.0",
+        "@pulumi/kubernetes": "^4.0.0",
+        "@pulumi/aws": "6.24.0",
+        "@pulumi/docker": "4.5.1",
+        "@pulumi/awsx": "^2.0.0"
+    }
+}
